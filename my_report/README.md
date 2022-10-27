@@ -11,7 +11,7 @@
 
 
 # 1st Deliverable
-1 video-capture/ Αρχικά ξεκίνησα παίρνοντας το παράδειγμα 16-1 από το βιβλίο Learning Processing και έτρεξα τον κώδικα για να ανοίξει η κάμερα.
+1. video-capture/ Αρχικά ξεκίνησα παίρνοντας το παράδειγμα 16-1 από το βιβλίο Learning Processing και έτρεξα τον κώδικα για να ανοίξει η κάμερα.
 ![IMG_5845](https://user-images.githubusercontent.com/100957090/198269346-8069d8c2-d4a9-40f0-978c-e136815c54a8.jpg)
 
 # 2nd Deliverable
