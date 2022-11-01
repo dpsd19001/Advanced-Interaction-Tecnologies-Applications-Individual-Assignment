@@ -15,8 +15,9 @@
 
 
 
-2. Κατέβασα ένα βίντεο 05 sec [από ]https://www.videvo.net/video/male-hands-typing-on-laptop-working-from-home/1103484/ και μετά το αποθήκευσα στη βιβλιοθήκη data μέσα στη processing βλέποντας το παράδειγμα 16-4. Στη συνέχεια έκανα import video με τη βοήθεια του παραδείγματος 16-5 και επίσης τροποποίησα τις διαστάσεις. 
-![Screenshot (2)](https://user-images.githubusercontent.com/100957090/199233368-fc3cae2c-53d2-4b6d-b4bd-9a23ed947627.png)
+2. Κατέβασα ένα βίντεο 05 sec [από ]https://www.videvo.net/video/male-hands-typing-on-laptop-working-from-home/1103484/ και μετά το αποθήκευσα στη βιβλιοθήκη data μέσα στη processing βλέποντας το παράδειγμα 16-4. Στη συνέχεια έκανα import video με τη βοήθεια του παραδείγματος 16-5 και επίσης τροποποίησα τις διαστάσεις.![Screenshot (4)](https://user-images.githubusercontent.com/100957090/199236758-613caf0b-fe2c-4863-aaab-dfd1694bbaa8.png)
+ 
+
 
 
 # 2nd Deliverable
