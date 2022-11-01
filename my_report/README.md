@@ -15,8 +15,9 @@
 
 
 
-2. Κατέβασα ένα βίντεο 08 sec [από ](https://www.videvo.net/video/close-up-shot-rain-drops-falling-on-leaves/783004/) και μετά το αποθήκευσα στη βιβλιοθήκη data μέσα στη processing βλέποντας το παράδειγμα 16-4. Στη συνέχεια έκανα import video με τη βοήθεια του παραδείγματος 16-5 και επίσης τροποποίησα τις διαστάσεις. 
-![IMG_5847](https://user-images.githubusercontent.com/100957090/198283589-4208c0b5-d0b6-4dc4-a9aa-8d387732b9dd.jpg)
+2. Κατέβασα ένα βίντεο 05 sec [από ]https://www.videvo.net/video/male-hands-typing-on-laptop-working-from-home/1103484/ και μετά το αποθήκευσα στη βιβλιοθήκη data μέσα στη processing βλέποντας το παράδειγμα 16-4. Στη συνέχεια έκανα import video με τη βοήθεια του παραδείγματος 16-5 και επίσης τροποποίησα τις διαστάσεις. 
+![Screenshot (2)](https://user-images.githubusercontent.com/100957090/199233368-fc3cae2c-53d2-4b6d-b4bd-9a23ed947627.png)
+
 
 # 2nd Deliverable
 
