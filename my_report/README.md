@@ -27,6 +27,8 @@
 
 
 # 2nd Deliverable
+1. Background Removal
+Αρχικά τοποθέτησα ένα πράσινο χαρτόνι στον τοίχο και πήρα το παράδειγμα 16-2
 
 
 # 3rd Deliverable 
