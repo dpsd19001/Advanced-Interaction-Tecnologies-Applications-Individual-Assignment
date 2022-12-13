@@ -34,7 +34,7 @@
 2. Motion Detection/
 Ξεκίνησα μελετώντας το παράδειγμα 16-11, 16-13 από το http://learningprocessing.com/ και τέλος πήρα το παράδειγμα 16-7 και το μεταποίησα. Τέλος, έτρεξα το πρόγραμμα και το παραλληλόγραμμό μου ακολούθησε τις κινήσεις του χεριού μου. ![Screenshot (24)](https://user-images.githubusercontent.com/100957090/207364393-a2371d0b-6588-44c4-b466-1dfb326ceb7a.png)
 
-3.Background Substraction/ Ξεκίνησα εγκαθιστώντας τη βιβλιοθήκη OpenCV στη processing και μπήκα να μελετήσω το Background Substraction από το https://github.com/atduskgreg/opencv-processing . ![Screenshot (28)](https://user-images.githubusercontent.com/100957090/207376442-70e427b8-47d5-44aa-b644-ad6bfe6558f9.png)
+3.Background Substraction/ Ξεκίνησα εγκαθιστώντας τη βιβλιοθήκη OpenCV στη processing και μπήκα να μελετήσω το Background Substraction από το [[https://github.com/atduskgreg/opencv-processing](https://github.com/atduskgreg/opencv-processing#backgroundsubtraction)](https://github.com/atduskgreg/opencv-processing#backgroundsubtraction) . ![Screenshot (28)](https://user-images.githubusercontent.com/100957090/207376442-70e427b8-47d5-44aa-b644-ad6bfe6558f9.png)
 
 
 # 3rd Deliverable 
