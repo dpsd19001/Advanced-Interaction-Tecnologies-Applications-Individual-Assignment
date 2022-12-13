@@ -27,10 +27,13 @@
 
 
 # 2nd Deliverable
-1. Background Removal
+1. Background Removal/
 Αρχικά τοποθέτησα ένα πράσινο χαρτόνι στον τοίχο και πήρα το παράδειγμα 16-2. Μετά έκανα αφαίρεση του background για να μπει η εικόνα στη θέση του που είναι σε διαστάσεις 320x240.
 ![Screenshot (15)](https://user-images.githubusercontent.com/100957090/207062968-bf883469-c714-4c2a-ae8d-b00fa9fb76d3.png)
 
+2. Motion Detection/
+Ξεκίνησα μελετώντας το παράδειγμα 16-11 και 16-13 από το http://learningprocessing.com/ και τέλος πήρα το παράδειγμα 16-7 και το μεταποίησα. Τέλος, έτρεξα το πρόγραμμα και το παραλληλόγραμμό μου ακολούθησε τις κινήσεις του χεριού μου.
+![Screenshot (24)](https://user-images.githubusercontent.com/100957090/207364393-a2371d0b-6588-44c4-b466-1dfb326ceb7a.png)
 
 # 3rd Deliverable 
 
