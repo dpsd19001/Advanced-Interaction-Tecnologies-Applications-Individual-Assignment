@@ -36,6 +36,16 @@
 
 3.Background Substraction/ Ξεκίνησα εγκαθιστώντας τη βιβλιοθήκη OpenCV στη processing και μπήκα να μελετήσω το Background Substraction από το [[https://github.com/atduskgreg/opencv-processing](https://github.com/atduskgreg/opencv-processing#backgroundsubtraction)] . ![Screenshot (28)](https://user-images.githubusercontent.com/100957090/207376442-70e427b8-47d5-44aa-b644-ad6bfe6558f9.png)
 
+Ποια είναι τα πλεονεκτήματα και μειονεκτήματα της έτοιμης βιβλιοθήκης έναντι του κώδικα από το πρώτο ερώτημα;
+ΠΛΕΟΝΕΚΤΗΜΑΤΑ  
+1. Είναι αναγνωρίσιμη η κίνηση.
+2. Εξοικονόμηση χώρου με τη χρήση της βιβλιοθήκης.
+
+ΜΕΙΟΝΕΚΤΗΜΑΤΑ
+1. Η εγκατάσταση της βιβλιοθήκης μπορεί να είναι χρονοβόρα.
+2. Είναι απαραίτητη η χρήση κάμερας.
+3. Πρέπει βα υπάρχει καλός φωτισμός.
+
 
 # 3rd Deliverable 
 
