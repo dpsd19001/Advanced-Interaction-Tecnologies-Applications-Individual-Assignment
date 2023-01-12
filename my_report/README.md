@@ -11,6 +11,8 @@
 
 
 # 1st Deliverable
+
+
 1. Video-capture/ Αρχικά ξεκίνησα παίρνοντας το παράδειγμα 16-1 από το βιβλίο Learning Processing και έτρεξα τον κώδικα για να ανοίξει η κάμερα.![Screenshot (1)](https://user-images.githubusercontent.com/100957090/199227746-c9fa038d-f9eb-4374-a11d-769113a7aa28.png)
 
 
@@ -27,14 +29,21 @@
 
 
 # 2nd Deliverable
-1. Background Removal/
+1. Background Removal
+
+
 Αρχικά τοποθέτησα ένα πράσινο χαρτόνι στον τοίχο και πήρα το παράδειγμα 16-2. Μετά έκανα αφαίρεση του background για να μπει η εικόνα στη θέση του που είναι σε διαστάσεις 320x240.
 ![Screenshot (15)](https://user-images.githubusercontent.com/100957090/207062968-bf883469-c714-4c2a-ae8d-b00fa9fb76d3.png)
 
-2. Motion Detection/
+2. Motion Detection
+
+
 Ξεκίνησα μελετώντας το παράδειγμα 16-11, 16-13 από το http://learningprocessing.com/ και τέλος πήρα το παράδειγμα 16-7 και το μεταποίησα. Τέλος, έτρεξα το πρόγραμμα και το παραλληλόγραμμό μου ακολούθησε τις κινήσεις του χεριού μου. ![Screenshot (24)](https://user-images.githubusercontent.com/100957090/207364393-a2371d0b-6588-44c4-b466-1dfb326ceb7a.png)
 
-3.Background Substraction/ Ξεκίνησα εγκαθιστώντας τη βιβλιοθήκη OpenCV στη processing και μπήκα να μελετήσω το Background Substraction από το [[https://github.com/atduskgreg/opencv-processing](https://github.com/atduskgreg/opencv-processing#backgroundsubtraction)] . ![Screenshot (28)](https://user-images.githubusercontent.com/100957090/207376442-70e427b8-47d5-44aa-b644-ad6bfe6558f9.png)
+3.Background Substraction
+
+
+Ξεκίνησα εγκαθιστώντας τη βιβλιοθήκη OpenCV στη processing και μπήκα να μελετήσω το Background Substraction από το [[https://github.com/atduskgreg/opencv-processing](https://github.com/atduskgreg/opencv-processing#backgroundsubtraction)] . ![Screenshot (28)](https://user-images.githubusercontent.com/100957090/207376442-70e427b8-47d5-44aa-b644-ad6bfe6558f9.png)
 
 Ποια είναι τα πλεονεκτήματα και μειονεκτήματα της έτοιμης βιβλιοθήκης έναντι του κώδικα από το πρώτο ερώτημα;
 
@@ -49,7 +58,9 @@
 - Είναι απαραίτητη η χρήση κάμερας.
 -Πρέπει βα υπάρχει καλός φωτισμός.
 
-4. Object Tracking/
+4. Object Tracking
+
+
 Χρησιμοποίησα το παράδειγμα snake και άλλαξα το χρώμα από τα κυκλάκια. Στη συνέχεια έτρεξα το πρόγραμμα, άνοιξε η κάμερα, πήρα ένα αντικείμενο και άρχισα να το κουνάω μέχρι που φαινόταν σαν να σχηματίζεται ουρά από τα κυκλάκια.  ![Screenshot (33)](https://user-images.githubusercontent.com/100957090/207388176-24ee9097-6593-4d17-b3fa-111e4a1ae0a9.png)
 
 Σε σχέση με το παραδοσιακό ποντίκι ποια είναι τα πλεονεκτήματα και ποια τα μειονεκτήματα αυτής της τεχνικής ελέγχου ενός ή περισσότερων σημείων σε μια οθόνη?
@@ -69,12 +80,24 @@
 
 
 # 3rd Deliverable 
-1.reacTIVation – Installation/Αφού κατέβασα την εφαρμογή reacTIVision vision engine, την TUIO Simulator και την βιβλιοθήκη της reacTIVision, εκτέλεσα το παράδειγμα TUIO demo με τη χρήση του Simulator. Το JAVA ήταν ήδη κατεβασμένο στον υπολογιστή, γιατί το έκανα στο εργαστήριο υπολογιστών.
-2.Image Processing Application/ Ξεκίνησα αλλάζοντας τις διαστάσεις στο αρχικό παράθυρο, γιατί έπιανε όλη την οθόνη. Κατέβασα από το ίντερνετ 3 εικόνες και τις χρησιμοποίησα. ![sea](https://user-images.githubusercontent.com/100957090/212116032-046e6a3b-a660-4cf3-bf63-582a7c46950a.jpg) ![voreio-selas](https://user-images.githubusercontent.com/100957090/212116286-14d4a9b0-7a1a-43df-b1df-c4de715fb3ba.jpg) ![gray](https://user-images.githubusercontent.com/100957090/212116313-e3b1fc61-0894-4c86-a1c0-493b8db7b9b4.png)
+1.reacTIVation – Installation
+
+Αφού κατέβασα την εφαρμογή reacTIVision vision engine, την TUIO Simulator και την βιβλιοθήκη της reacTIVision, εκτέλεσα το παράδειγμα TUIO demo με τη χρήση του Simulator. Το JAVA ήταν ήδη κατεβασμένο στον υπολογιστή, γιατί το έκανα στο εργαστήριο υπολογιστών.
+
+
+2.Image Processing Application
+
+Ξεκίνησα αλλάζοντας τις διαστάσεις στο αρχικό παράθυρο, γιατί έπιανε όλη την οθόνη. Κατέβασα από το ίντερνετ 3 εικόνες και τις χρησιμοποίησα. 
+
+
+![sea](https://user-images.githubusercontent.com/100957090/212116032-046e6a3b-a660-4cf3-bf63-582a7c46950a.jpg) ![voreio-selas](https://user-images.githubusercontent.com/100957090/212116286-14d4a9b0-7a1a-43df-b1df-c4de715fb3ba.jpg) ![gray](https://user-images.githubusercontent.com/100957090/212116313-e3b1fc61-0894-4c86-a1c0-493b8db7b9b4.png)
 
 
 Ξεκίνησα χρησιμοποιώντας το TuioDemo και συνέχισα προστίθωντας και άλλες πληροφορίες στον κώδικα. Στη συνέχεια πρόσθεσα τα φίλτρα που πρέπει να κάνει σε κάθε εικόνα.
-Και εδώ εμφανίζονται οι εικόνες: ![3](https://user-images.githubusercontent.com/100957090/212121517-82f263d6-8efc-4b3f-a352-ad2ebcb83948.png)
+Και εδώ εμφανίζονται οι εικόνες: 
+
+
+![3](https://user-images.githubusercontent.com/100957090/212121517-82f263d6-8efc-4b3f-a352-ad2ebcb83948.png)
 ![4](https://user-images.githubusercontent.com/100957090/212121626-ac0bd5bb-dfec-4c6e-a565-39229689d71e.png)
 ![1](https://user-images.githubusercontent.com/100957090/212121657-d14695c5-b6c2-4f8c-84bc-9d710d90fa5f.png)
 
