@@ -69,7 +69,7 @@
 
 
 # 3rd Deliverable 
-[1.reacTIVation – Installation](https://github.com/Kuletsi/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/tree/main/my_report#1reactivation--installation)/Αφού κατέβασα την εφαρμογή reacTIVision vision engine, την TUIO Simulator και την βιβλιοθήκη της reacTIVision, εκτέλεσα το παράδειγμα TUIO demo με τη χρήση του Simulator. Το JAVA ήταν ήδη κατεβασμένο στον υπολογιστή, γιατί το έκανα στο εργαστήριο υπολογιστών.
+[1.reacTIVation – Installation]/Αφού κατέβασα την εφαρμογή reacTIVision vision engine, την TUIO Simulator και την βιβλιοθήκη της reacTIVision, εκτέλεσα το παράδειγμα TUIO demo με τη χρήση του Simulator. Το JAVA ήταν ήδη κατεβασμένο στον υπολογιστή, γιατί το έκανα στο εργαστήριο υπολογιστών.
 
 # Bonus 
 
