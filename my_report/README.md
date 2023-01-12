@@ -93,9 +93,22 @@
 ![sea](https://user-images.githubusercontent.com/100957090/212116032-046e6a3b-a660-4cf3-bf63-582a7c46950a.jpg) ![voreio-selas](https://user-images.githubusercontent.com/100957090/212116286-14d4a9b0-7a1a-43df-b1df-c4de715fb3ba.jpg) ![gray](https://user-images.githubusercontent.com/100957090/212116313-e3b1fc61-0894-4c86-a1c0-493b8db7b9b4.png)
 
 
+Στην 1η εικόνα εμφανίζεται η 1η εικόνα:
+
+
 ![Screenshot (38)](https://user-images.githubusercontent.com/100957090/212124544-c21ce6fe-4870-4a72-8e6a-99a8e4b8244d.png)
+
+Στην 2η εικόνα εμφανίζονται οι 2 πρώτες εικόνες:
+
+
 ![Screenshot (39)](https://user-images.githubusercontent.com/100957090/212124661-2d2012c5-9003-4dd5-8cd0-433ee7e325ee.png)
+
+Στην 3η εικόνα εμφανίζονται οι 3 πρώτες εικόνες:
+
 ![Screenshot (40)](https://user-images.githubusercontent.com/100957090/212124794-1b5eda3b-112d-41cb-924f-039392dc167a.png)
+
+Στην 4η εικόνα εμφανίζονται οι πρώτες 3 εικόνες + την 1η εικόνα με διαφορετικό μέγεθος:
+
 ![Screenshot (41)](https://user-images.githubusercontent.com/100957090/212125016-165dddc5-f869-41bd-82bd-00e660e282b0.png)
 ![Screenshot (42)](https://user-images.githubusercontent.com/100957090/212125090-bebe2945-eba4-4684-9f0e-64d045d1d894.png)
 
