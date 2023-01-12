@@ -71,6 +71,11 @@
 # 3rd Deliverable 
 1.reacTIVation – Installation/Αφού κατέβασα την εφαρμογή reacTIVision vision engine, την TUIO Simulator και την βιβλιοθήκη της reacTIVision, εκτέλεσα το παράδειγμα TUIO demo με τη χρήση του Simulator. Το JAVA ήταν ήδη κατεβασμένο στον υπολογιστή, γιατί το έκανα στο εργαστήριο υπολογιστών.
 2.Image Processing Application/ Ξεκίνησα αλλάζοντας τις διαστάσεις στο αρχικό παράθυρο, γιατί έπιανε όλη την οθόνη. Κατέβασα από το ίντερνετ 3 εικόνες και τις χρησιμοποίησα. ![sea](https://user-images.githubusercontent.com/100957090/212116032-046e6a3b-a660-4cf3-bf63-582a7c46950a.jpg) ![voreio-selas](https://user-images.githubusercontent.com/100957090/212116286-14d4a9b0-7a1a-43df-b1df-c4de715fb3ba.jpg) ![gray](https://user-images.githubusercontent.com/100957090/212116313-e3b1fc61-0894-4c86-a1c0-493b8db7b9b4.png)
+Ξεκίνησα χρησιμοποιώντας το TuioDemo και συνέχισα προστίθωντας και άλλες πληροφορίες στον κώδικα. Στη συνέχεια πρόσθεσα τα φίλτρα που πρέπει να κάνει σε κάθε εικόνα.
+Και εδώ εμφανίζονται οι εικόνες: ![3](https://user-images.githubusercontent.com/100957090/212121517-82f263d6-8efc-4b3f-a352-ad2ebcb83948.png)
+![4](https://user-images.githubusercontent.com/100957090/212121626-ac0bd5bb-dfec-4c6e-a565-39229689d71e.png)
+![1](https://user-images.githubusercontent.com/100957090/212121657-d14695c5-b6c2-4f8c-84bc-9d710d90fa5f.png)
+
 
 
 
