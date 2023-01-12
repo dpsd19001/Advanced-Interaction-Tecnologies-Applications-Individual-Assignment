@@ -70,7 +70,7 @@
 
 # 3rd Deliverable 
 1.reacTIVation – Installation/Αφού κατέβασα την εφαρμογή reacTIVision vision engine, την TUIO Simulator και την βιβλιοθήκη της reacTIVision, εκτέλεσα το παράδειγμα TUIO demo με τη χρήση του Simulator. Το JAVA ήταν ήδη κατεβασμένο στον υπολογιστή, γιατί το έκανα στο εργαστήριο υπολογιστών.
-2.Image Processing Application/ Ξεκίνησα αλλάζοντας τις διαστάσεις στο αρχικό παράθυρο, γιατί έπιανε όλη την οθόνη. Κατέβασα από το ίντερνετ 3 εικόνες και τις χρησιμοποίησα. (D:\dpsd19001\processing\3-παραδοτέο\sketch_230111c\data.png)
+2.Image Processing Application/ Ξεκίνησα αλλάζοντας τις διαστάσεις στο αρχικό παράθυρο, γιατί έπιανε όλη την οθόνη. Κατέβασα από το ίντερνετ 3 εικόνες και τις χρησιμοποίησα. (![sea](https://user-images.githubusercontent.com/100957090/212116032-046e6a3b-a660-4cf3-bf63-582a7c46950a.jpg)
 
 # Bonus 
 
