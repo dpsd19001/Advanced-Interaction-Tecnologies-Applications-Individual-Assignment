@@ -93,25 +93,25 @@
 ![sea](https://user-images.githubusercontent.com/100957090/212116032-046e6a3b-a660-4cf3-bf63-582a7c46950a.jpg) ![voreio-selas](https://user-images.githubusercontent.com/100957090/212116286-14d4a9b0-7a1a-43df-b1df-c4de715fb3ba.jpg) ![gray](https://user-images.githubusercontent.com/100957090/212116313-e3b1fc61-0894-4c86-a1c0-493b8db7b9b4.png)
 
 
-Στην 1η εικόνα εμφανίζεται η 1η εικόνα:
+Στην 1η εικόνα εμφανίζεται η 1η εικόνα (img):
 
 
 ![Screenshot (38)](https://user-images.githubusercontent.com/100957090/212124544-c21ce6fe-4870-4a72-8e6a-99a8e4b8244d.png)
 
-Στην 2η εικόνα εμφανίζονται οι 2 πρώτες εικόνες:
+Στην 2η εικόνα εμφανίζονται οι 2 πρώτες εικόνες (img, img1):
 
 
 ![Screenshot (39)](https://user-images.githubusercontent.com/100957090/212124661-2d2012c5-9003-4dd5-8cd0-433ee7e325ee.png)
 
-Στην 3η εικόνα εμφανίζονται οι 3 πρώτες εικόνες:
+Στην 3η εικόνα εμφανίζονται οι 3 πρώτες εικόνες (img, img1, gray):
 
 ![Screenshot (40)](https://user-images.githubusercontent.com/100957090/212124794-1b5eda3b-112d-41cb-924f-039392dc167a.png)
 
-Στην 4η εικόνα εμφανίζονται οι πρώτες 3 εικόνες + η 1η εικόνα με διαφορετικό μέγεθος:
+Στην 4η εικόνα εμφανίζονται οι πρώτες 3 εικόνες + η 1η εικόνα με διαφορετικό μέγεθος (img, img1, gray + img):
 
 ![Screenshot (41)](https://user-images.githubusercontent.com/100957090/212125016-165dddc5-f869-41bd-82bd-00e660e282b0.png)
 
-Τέλος, στην 5η εικόνα εμφανίζονται όλες οι φωτογραφίες μαζί και γίνεται γκρι το χρώμα της εικόνας 2 και οι υπόλοιπες τέσσερις αλλάζουν και εκείνες χρώμα:
+Τέλος, στην 5η εικόνα εμφανίζονται όλες οι φωτογραφίες μαζί και γίνεται γκρι το χρώμα της εικόνας 2 και οι υπόλοιπες τέσσερις αλλάζουν και εκείνες χρώμα (img, img1, gray):
 
 ![Screenshot (42)](https://user-images.githubusercontent.com/100957090/212125090-bebe2945-eba4-4684-9f0e-64d045d1d894.png)
 
@@ -132,7 +132,28 @@ fiducial_2 -> gray
 
 
 ![3](https://user-images.githubusercontent.com/100957090/212121517-82f263d6-8efc-4b3f-a352-ad2ebcb83948.png)
+
+Στην 2η εικόνα χρησιμοποιώ τα fiducials 0, 3
+
+fiducial_0 -> img
+
+fiducial_3 -> img που γίνεται γκρι
+
+
+
+
 ![4](https://user-images.githubusercontent.com/100957090/212121626-ac0bd5bb-dfec-4c6e-a565-39229689d71e.png)
+
+Στην 3η εικόνα χρησιμοποιώ τα fiducials 0, 1, 4
+
+fiducial_0 -> img
+
+fiducial_1 -> img1 αλλάζει χρώμα
+
+fiducial_4 -> img1 με άλλες διαστάσεις που αλλάζει χρώμα
+
+
+
 ![1](https://user-images.githubusercontent.com/100957090/212121657-d14695c5-b6c2-4f8c-84bc-9d710d90fa5f.png)
 
 
